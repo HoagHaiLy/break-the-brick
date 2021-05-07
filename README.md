@@ -23,5 +23,5 @@ Nguồn tham khảo: - https://youtu.be/oZ92bAOOrLI
            http://gamedev.stackexchange.com/questions/29786/a-simple-2d-rectangle-collision-algorithm-that-also-determines-which-sides-that
            http://gamedev.stackexchange.com/questions/24078/which-side-was-hit/24091#24091
  
-  Tự chấm: 7
+  Tự chấm: 7-7.5
   
